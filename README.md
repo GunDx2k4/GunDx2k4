@@ -8,7 +8,7 @@
 
 - ✍ I'm a student of: [Faculty of Information Technology - Hanoi Open University](http://fithou.edu.vn) (FITHOU).
 
-- 🌱 I’m currently learning **BackEnd**
+- 🌱 I’m currently learning **GAME DEVELOPER**
 
 # Project Showcase
 | Tên | Giới thiệu | Link |
