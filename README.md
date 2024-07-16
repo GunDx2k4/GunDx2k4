@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **BACK END DEVELOPER**
 
 # Project Showcase
-| Tên | Giới thiệu | Link |
-|------|------|-----------|
 
 <!--
 **GnuD2k4/GnuD2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
