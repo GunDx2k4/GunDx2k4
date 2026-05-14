@@ -7,7 +7,6 @@ I'm a student at the [Faculty of Information Technology - Hanoi Open University]
 
 * 🌍  **Based in:** Hanoi, Vietnam
 * 💻  **Core Strength:** My favorite language is **C#** and the **.NET ecosystem**. With a strong foundation in OOP and system architecture derived from C#, I possess the ability to **rapidly adapt and master new programming languages** and frameworks.
-* 🚀  **Current Project:** I'm currently building **[OmniPos](http://omnipos.l7ungdz.id.vn/)**.
 * 🧠  **Tech Stack:** ASP.NET, Vue.js, and expanding.
 * 🖥️  **Portfolio:** [l7ungdz.id.vn](http://l7ungdz.id.vn)
 * ✉️  **Contact:** [dungnguyenxuan2k4@gmail.com](mailto:dungnguyenxuan2k4@gmail.com)
